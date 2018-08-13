@@ -1,1 +1,9 @@
 hola mundo
+
+git add filex
+
+git status
+
+git commit -m "algo" filex
+
+git push -u origin master
